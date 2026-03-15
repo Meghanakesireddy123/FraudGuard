@@ -1,0 +1,41 @@
+{
+  "numeric_features": [
+    "Unnamed: 0",
+    "amt",
+    "lat",
+    "long",
+    "city_pop",
+    "merch_lat",
+    "merch_long",
+    "is_night",
+    "is_weekend",
+    "is_night_weekend",
+    "amt_log",
+    "is_high_amount",
+    "distance_from_origin",
+    "merchant_distance"
+  ],
+  "categorical_features": [
+    "merchant",
+    "category",
+    "gender",
+    "job"
+  ],
+  "total_features": 18,
+  "accuracy": 0.9894009638260233,
+  "f1_score": 0.4018932874354561,
+  "roc_auc": 0.9899526135494048,
+  "threshold": 0.9077956434406848,
+  "confusion_matrix": [
+    [
+      129287,
+      1308
+    ],
+    [
+      82,
+      467
+    ]
+  ],
+  "dataset_type": "card",
+  "training_date": "2026-01-05T14:29:48.630339"
+}
