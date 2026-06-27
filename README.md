@@ -3,7 +3,7 @@
 This project was developed collaboratively by a team of **4 members** as part of an academic Artificial Intelligence and Machine Learning (AI/ML) project.
 
 ### My Contribution
-I contributed as one of the team members in the design, development, implementation, testing, and integration of the project.
+I contributed as one of the team members in the development, testing, and integration of the project.
 
 > **Note:** This repository is maintained to showcase my contribution to the team project.
 
