@@ -238,10 +238,5 @@ const CONFIG = {
 3. **Customization**: Adjust colors, gravity force, transaction frequency in config
 4. **Extensions**: Add sound effects, more transaction types, analytics dashboard
 
-## 📝 License
 
-Built for hackathon purposes. Feel free to use and modify!
 
-## 🤝 Credits
-
-Developed by Senior Full-Stack AI Engineer & Data Scientist
